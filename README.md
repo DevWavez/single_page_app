@@ -1,1 +1,1 @@
-# Spas
+# Single-Page collections
